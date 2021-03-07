@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "143262054043",
+    "firebase_url": "https://quest-game-85843.firebaseio.com",
+    "project_id": "quest-game-85843",
+    "storage_bucket": "quest-game-85843.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:143262054043:android:e3f9be3baadd48d7f9f83e",
+        "android_client_info": {
+          "package_name": "com.DefaultCompany.QuestGame"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "143262054043-t2dne8a6qbfe12pkjr9bj58lkh3v9c09.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBZN0lSqUFhbJ__C9Aiq5ydJolhEkgCGm0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "143262054043-t2dne8a6qbfe12pkjr9bj58lkh3v9c09.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "143262054043-q0d15n1i8c1jr4gvhpq6igr5d8ghtore.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.DefaultCompany.QuestGame"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
